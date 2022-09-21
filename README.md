@@ -10,7 +10,7 @@
 - [x] 💻 Languages: Java
 - [x] 🌐 Web: Javascript, HTML, CSS, React, Node.js, Express.js, SASS, Bootstrap, jQuery
 - [x] 🛒 Database: MongoDB
-- [x] 👩‍💻 Others: Github
+- [x] 👩‍💻 Others: Github, Git
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
