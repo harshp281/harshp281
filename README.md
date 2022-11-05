@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **harshpatel1628@gmail.com**
 - 👩‍💻 I'm working on MERN stack
-- 🚀 Resume <a href="https://drive.google.com/file/d/1SYx_lGbZUobUySCaF6YWg0c5wyefn_GI/view?usp=sharing">link</a>
+- 🚀 Resume <a href="https://drive.google.com/file/d/1RWu5uVkm-EKllHjpZSUfKxba44zoxqGw/view?usp=sharing">link</a>
 
 - [x] 💻 Languages: Java
 - [x] 🌐 Web: Javascript, HTML, CSS, React, Node.js, Express.js, SASS, Bootstrap, jQuery
